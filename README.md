@@ -5,15 +5,21 @@ A clean and modern HTML/CSS webpage with a responsive design.
 ## Features
 
 - Responsive navigation header
-- Three main sections (Home, About, Contact)
-- Fixed footer
-- Modern styling with hover effects
-- Clean typography and layout
+- Multiple sections: Despre, Galerie, Home, About, Contact
+- Galerie cu CSS Grid (3 coloane, 1 coloană pe ecrane < 600px)
+- Styling modern cu hover effects
+- Footer fixat
 
 ## Files
 
 - `index.html` - Main HTML structure
 - `styles.css` - Stylesheet with all the styling
+
+## Sections
+
+- `#despre` – scurtă prezentare personală
+- `#galerie` – galerie de imagini cu layout responsive
+- `#home`, `#about`, `#contact` – secțiuni de conținut
 
 ## How to Use
 
@@ -23,7 +29,7 @@ A clean and modern HTML/CSS webpage with a responsive design.
 ## Technologies
 
 - HTML5
-- CSS3
+- CSS3 (CSS Grid, media queries)
 
 ---
 
